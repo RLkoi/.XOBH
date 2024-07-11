@@ -1,1 +1,1 @@
-Basically, open the .aplication first and set the .exe as the standard driver for XOBH files
+Just set the .app as the default
