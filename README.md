@@ -1,1 +1,1 @@
-Just set the .app as the default
+Just set the .exe as the default
